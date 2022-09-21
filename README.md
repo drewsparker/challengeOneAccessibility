@@ -1,4 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Code Refactor - Accessibility Exercise 
 
 ## Added Accessibility 
 In an effort to increase accessibilty I replaced many non-semantic elements with semantic elements to provide more clarity to both the browser and developer when reading the HTML code. 
