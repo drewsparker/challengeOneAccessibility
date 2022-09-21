@@ -8,3 +8,7 @@ I made sure content was organized in order of importance and then placement on t
 
 ## Alt-text
 In the event images will not load, I added alt-text to display so users will get a feeling for what was meant to be there.
+
+[link to site](https://drewsparker.github.io/challengeOneAccessibility)
+
+![screenshot of site](assets/images/ScreenShot.png)
